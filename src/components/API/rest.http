@@ -1,0 +1,15 @@
+POST https://postgresql-node-restapi-master.onrender.com/addresses
+Content-Type: application/json
+
+{
+     "user_id": 1,
+    "name_address": "Casa Principal",
+    "type_address": "Residencial",
+    "address": "Av. Siempre Viva 123",
+    "block": "B-12",
+    "references_add": "Cerca del supermercado",
+    "villa": "Villa Sol",
+    "coordinates": "-12.345678, -45.678901"
+}
+
+
