@@ -22,4 +22,11 @@ Glup es una aplicación ficticia diseñada para gestionar servicios de entrega d
    git clone https://github.com/WALD3V/Glup.git
    cd glup
 Diseño:
-![UX_1](link) ![UX_2](link) ![UX_3](link) ![UX_4](link) ![UX_5](link) ![UX_6](link)
+<p align="center">
+  <img src="assets/1736796925934.jpg" width="200" alt="Image 1">
+  <img src="assets/1736796925938.jpg" width="200" alt="Image 2">
+  <img src="assets/1736796925941.jpg" width="200" alt="Image 3">
+  <img src="assets/1736796925945.jpg" width="200" alt="Image 4">
+  <img src="assets/1736796925948.jpg" width="200" alt="Image 5">
+</p>
+
