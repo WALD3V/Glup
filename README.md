@@ -1,27 +1,35 @@
 # Glup  
 
-Glup es una aplicación ficticia diseñada para gestionar servicios de entrega de agua a domicilio. Este proyecto tiene fines educativos y demuestra cómo construir soluciones tecnológicas para este sector.
+**Glup** is a fictional application designed to manage home water delivery services. This project is for educational purposes and demonstrates how to build technological solutions for this sector.  
 
-## 🚀 Características principales  
+---
 
-- Gestión de pedidos de agua: Simula la creación y seguimiento de pedidos.  
-- Interfaz intuitiva: Diseñada para clientes, proveedores y conductores.  
-- Cálculo de rutas simuladas: Optimización para entregas.  
-- Notificaciones ficticias: Actualización del estado del pedido en tiempo real.  
+## 🚀 Main Features  
 
-## 🛠️ Tecnologías utilizadas  
+- **Water Order Management**: Simulates the creation and tracking of orders.  
+- **Intuitive Interface**: Designed for customers, suppliers, and drivers.  
+- **Simulated Route Calculation**: Optimized for deliveries.  
+- **Fictitious Notifications**: Real-time order status updates.  
 
-- Frontend: React Native  
-- Backend: Node.js (Express)  
-- Base de datos: PostgreSQL  
+---
 
-## ⚙️ Instalación y uso  
+## 🛠️ Technologies Used  
 
-1. Clona este repositorio:  
+- **Frontend**: React Native  
+- **Backend**: Node.js (Express)  
+- **Database**: PostgreSQL  
+
+---
+
+## ⚙️ Installation and Usage  
+
+1. Clone this repository:  
    ```bash
    git clone https://github.com/WALD3V/Glup.git
    cd glup
-Diseño:
+
+
+## 🖌️ UX:
 <p align="center">
   <img src="assets/1736796925934.jpg" width="200" alt="Image 1">
   <img src="assets/1736796925938.jpg" width="200" alt="Image 2">
