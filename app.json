@@ -24,8 +24,7 @@
     "android": {
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyD7JEzec2l1C5HZ5MSxhy1uOxzAUQrTeqM"
-        }
+          
       },
       "softwareKeyboardLayoutMode": "pan",
       "adaptiveIcon": {
